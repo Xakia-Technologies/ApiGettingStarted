@@ -58,6 +58,10 @@ The Xakia Public API provides an OpenAPI 3 compliant definition with a Swagger U
 
 The API browser will also allow you to interact with the API directly. Use the "Authenticate" button to enter your access token, and then ensure to supply the location, tenant and region headers on each request. 
 
+## Wiki
+ 
+Please see the Wiki for futher information : https://github.com/Xakia-Technologies/ApiGettingStarted/wiki
+ 
 ## Support 
 
 For any queries about the Xakia Public API please email support@xakiatech.com . 
